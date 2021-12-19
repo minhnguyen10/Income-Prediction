@@ -7,4 +7,5 @@ The raw data is in *adult.csv*, which can be found here <br />
 *DataProcessing.ipynb* provides the data pre-processing and generates *cleaned_adult.csv* <br />
 *Models.ipynb* includes the implementations of different machine leanring models and attempt to use oversampling/undersampling <br />
 *CNN.ipynb* includes code for implentations of neural network approach <br />
+<br />
 *Please let us know if there is any trouble* 
